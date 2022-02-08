@@ -37,6 +37,8 @@ python3.8  manage.py test
  shell
  Html
  Others
+css
+Js
 
 ##  contact information
 email shamimmaloba @gmail.com
