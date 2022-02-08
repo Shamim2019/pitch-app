@@ -21,7 +21,7 @@ git clone in to my repository
 cd pitch-app
 
 pip freeze
-pip freeze > requoirements.txt
+pip freeze > requirements.txt
 pip install -r requiremments.txt
 
   Running app
